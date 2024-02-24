@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-24T11:50:29 EST" name="Surefire suite" finished-at="2024-02-24T11:51:41 EST" duration-ms="71928">
+    <groups>
+    </groups>
+    <test started-at="2024-02-24T11:50:29 EST" name="Surefire test" finished-at="2024-02-24T11:51:41 EST" duration-ms="71928">
+      <class name="DerivMobileAutomation.tests.calculatorTestCase">
+        <test-method is-config="true" signature="congifureAppium()[pri:0, instance:DerivMobileAutomation.tests.calculatorTestCase@f381794]" started-at="2024-02-24T11:50:29 EST" name="congifureAppium" finished-at="2024-02-24T11:50:47 EST" duration-ms="17731" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- congifureAppium -->
+        <test-method signature="additionOperation()[pri:0, instance:DerivMobileAutomation.tests.calculatorTestCase@f381794]" started-at="2024-02-24T11:50:47 EST" name="additionOperation" finished-at="2024-02-24T11:51:01 EST" duration-ms="13789" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- additionOperation -->
+        <test-method signature="divisonOperation()[pri:0, instance:DerivMobileAutomation.tests.calculatorTestCase@f381794]" started-at="2024-02-24T11:51:01 EST" name="divisonOperation" finished-at="2024-02-24T11:51:13 EST" duration-ms="12513" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- divisonOperation -->
+        <test-method signature="multiplicationOperation()[pri:0, instance:DerivMobileAutomation.tests.calculatorTestCase@f381794]" started-at="2024-02-24T11:51:13 EST" name="multiplicationOperation" finished-at="2024-02-24T11:51:27 EST" duration-ms="13403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiplicationOperation -->
+        <test-method signature="subtractionOperation()[pri:0, instance:DerivMobileAutomation.tests.calculatorTestCase@f381794]" started-at="2024-02-24T11:51:27 EST" name="subtractionOperation" finished-at="2024-02-24T11:51:41 EST" duration-ms="14006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subtractionOperation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:DerivMobileAutomation.tests.calculatorTestCase@f381794]" started-at="2024-02-24T11:51:41 EST" name="tearDown" finished-at="2024-02-24T11:51:41 EST" duration-ms="450" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- DerivMobileAutomation.tests.calculatorTestCase -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

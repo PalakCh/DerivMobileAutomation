@@ -1,0 +1,3 @@
+DerivMobileAutomation\Utils\AndroidActions.class
+DerivMobileAutomation\PageObjects\Android\CalculatorPage.class
+DerivMobileAutomation\Utils\AppiumUtils.class
